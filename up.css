@@ -1,0 +1,9 @@
+body{
+    font-style:bold;
+}
+.para{
+    font-style: italic;
+    width:400px;
+    border:1px solid white;
+    display: block;
+}
